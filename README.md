@@ -13,3 +13,11 @@ If you want your website to be at `YOUR-USERNAME.github.io`, that's what you mus
 **If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
+
+
+# local dev
+
+install: bundle install
+    if permission error, try: bundle config path vendor
+run:  bundle exec jekyll serve --trace
+view: http://localhost:4000
