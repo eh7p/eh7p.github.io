@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Agency!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to EH7P
+    text: ""
+    button: Get in Touch
+    buttonlink: "#contact"
 
   services:
     title: "Services"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Web Development"
+        desc: "Full stack web development, from front-end to back-end."
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Zendesk Storage Offload App](https://eh7p.com/zd-offload-docs/)"
+        desc: "An app to offload attachments from Zendesk tickets to a cloud storage provider."
+        icon: fas fa-file-export
 
   portfolio:
     title: "Portfolio"
