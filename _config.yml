@@ -41,6 +41,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 include:
   - .well-known

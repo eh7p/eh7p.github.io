@@ -1,0 +1,9 @@
+User-Agent: *
+Content-signal: search=yes, ai-train=no
+Allow: /
+Disallow: /cdn-cgi/
+
+
+Sitemap: https://eh7p.com/sitemap.xml
+Sitemap: https://eh7p.com/zd-offload/sitemap.xml
+Sitemap: https://eh7p.com/zd-offload-docs/sitemap.xml
